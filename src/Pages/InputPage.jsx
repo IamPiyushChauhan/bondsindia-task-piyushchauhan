@@ -1,4 +1,3 @@
-// src/components/InputForm.js
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { addData } from '../redux/actions';
